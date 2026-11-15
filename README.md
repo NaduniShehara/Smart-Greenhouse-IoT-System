@@ -78,7 +78,6 @@ Developed collaboratively by **Group 08**.
 Faculty of Applied Sciences  
 Uva Wellassa University, Sri Lanka.
 
-*Individual member names and contributions will be added after confirmation by the group.*
 
 ## 📚 Project Information
 
