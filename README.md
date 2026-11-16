@@ -70,13 +70,32 @@ Watch our project demonstration on YouTube:
 - Cloud-based sensor data storage.
 - Solar-powered operation.
 
+
 ## 👥 Project Team
 
-Developed collaboratively by **Group 08**.
+This project was collaboratively developed by **Group 08** as part of the Embedded Systems Mini Project at Uva Wellassa University.
 
-**Department of Computer Science and Informatics**  
-Faculty of Applied Sciences  
-Uva Wellassa University, Sri Lanka.
+### Team Members & Responsibilities
+
+| No. | Team Member | Responsibility |
+|---|---|---|
+| 1 | T.V.K.R. Premarathne | ESP32 Programming and System Integration |
+| 2 | J.K.L. Weerasooriya | Temperature and Humidity Monitoring |
+| 3 | L.M.N.R. De Mel | Soil Moisture Monitoring |
+| 4 | N.S. Jayathilake | Blynk IoT Integration and Wi-Fi Communication |
+| 5 | D.M.I.U. Dissanayake | Light Intensity Monitoring and LED Indicators |
+| 6 | H.M.V.I. Somathilake | Circuit Design, Simulation, Testing and Documentation |
+
+### Academic Information
+
+- **Group:** Group 08
+- **Module:** SCT 384-2
+- **Project Type:** Embedded Systems Mini Project
+- **Department:** Department of Computer Science and Informatics
+- **Faculty:** Faculty of Applied Sciences
+- **University:** Uva Wellassa University, Sri Lanka
+- **Academic Year:** 2026
+
 
 
 ## 📚 Project Information
